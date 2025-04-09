@@ -1,2 +1,2 @@
 Joblib
-scikit learn
+scikit-learn
